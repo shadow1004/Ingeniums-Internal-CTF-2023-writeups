@@ -17,10 +17,10 @@ This folder contains challenges that I created for an internal CTF, which is beg
 | Challenge Name | Difficulty |
 | -------------- | ---------- |
 | [Noted](forensics/Noted) | Easy |
-| [WireWeb 1](forensics/Wireweb-1) | Easy |
-| [WireWeb 2](forensics/Wireweb-2) | Medium |
-| [Macrosoft](forensics/Macrosoft) | Easy |
-| [Corrupted Layers](forensics/Corrupted-layers) | Medium |
+| [WireWeb1](forensics/Wireweb1-) | Easy |
+| [WireWeb2](forensics/Wireweb2-) | Medium |
+| [Macrosoft](forensics/Macrosoft-) | Easy |
+| [Corrupted Layers](forensics/Corrupted-layers-) | Medium |
 
 ## Misc
 
