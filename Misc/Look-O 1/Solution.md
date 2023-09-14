@@ -4,25 +4,24 @@
 
 # Solution
 
-So as we know in osint challenges, we have the whole internet to dive in and search for the flag but, description always contains the 
-main keys that should lead us to the right path and tell us where to start searching.
+So as we know in osint challenges, we have the whole internet to dive in and search for the flag but, the description always contains the main keys that should lead us to the right path and tell us where to start searching.
 
 "ingeniums videos"
 
-videos usually be uploaded on the youtube platform so we go and check the youtube channel of ingeniums.
+Videos usually be uploaded on the youtube platform so we go and check the youtube channel of ingeniums.
 
-`Link of the channel :` [https://www.youtube.com/@ingeniums](https://www.youtube.com/@ingeniums)
+**Link of the channel : [https://www.youtube.com/@ingeniums](https://www.youtube.com/@ingeniums)**
 
-As we look around, there is no extra ordinary video or something, but the description said " crazy avocado saying nonsense "
-so probably we would find some thing in the comments .. Let's check comment of last video/short..
+As we look around, there is no extraordinary video or something, but the description said " crazy avocado saying nonsense "
+so probably we would find something in the comments .. Let's check the comment of the last video/short..
 
 ![bandicam 2023-09-14 15-38-40-800](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/5dfa0678-3c17-4917-8e02-d6f50d11a788)
 
-as we notice there is a comment from someone called loco avocado - loco means crazy in spanish so it matches with the description-
-and have a photo profile of the internal CTF logo so we're on the right path 
+As we notice there is a comment from someone called loco avocado - loco means crazy in Spanish so it matches with the description-
+and have a photo profile of the internal CTF logo so we're on the right path.
 
-he's commenting ` gel gb xabj zber nobhg zr! `
-and translating this in rot13 gives us : `try to know more about me!`
+He's commenting ` gel gb xabj zber nobhg zr! `
+and translating this in rot13 gives us : `try to know more about me!`.
 
 Let's see his profile then .. 
 
