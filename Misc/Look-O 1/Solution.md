@@ -11,7 +11,7 @@ main keys that should lead us to the right path and tell us where to start searc
 
 videos usually be uploaded on the youtube platform so we go and check the youtube channel of ingeniums.
 
-`Link of the channel : https://www.youtube.com/@ingeniums`
+`Link of the channel :` [https://www.youtube.com/@ingeniums](https://www.youtube.com/@ingeniums)
 
 As we look around, there is no extra ordinary video or something, but the description said " crazy avocado saying nonsense "
 so probably we would find some thing in the comments ..
