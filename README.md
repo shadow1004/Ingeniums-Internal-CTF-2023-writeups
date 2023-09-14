@@ -21,7 +21,7 @@ This folder contains challenges that I created for an internal CTF, which is beg
 | [Noted](forensics/Noted) | Easy |
 | [WireWeb1](forensics/Wireweb1%20) | Easy |
 | [WireWeb2](forensics/Wireweb2%20) | Medium |
-| [Macrosoft](forensics/Macrosoft%20) | Easy |
+| [Macrosoft](forensics/Macrosoft) | Easy |
 | [Corrupted Layers](forensics/Corrupted-layers%20) | Medium |
 
 ## Misc
