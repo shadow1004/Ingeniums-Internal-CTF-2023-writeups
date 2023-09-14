@@ -1,6 +1,10 @@
 # Internal CTF Challenges
 
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=NiL0V3R&style=style=flat&color=BC4E99" alt="Star Badge"/>
+
 This folder contains challenges that I created for an internal CTF, which is beginner-friendly. Enjoy reading the writeups and try to find the flag on your own first! ✅
+
+
 
 ## Crypto
 
