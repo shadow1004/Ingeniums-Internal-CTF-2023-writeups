@@ -4,6 +4,8 @@
 
 This folder contains challenges that I created for an internal CTF, which is beginner-friendly. Enjoy reading the writeups and try to find the flag on your own first! ✅
 
+`Flag format: ingeniums{flag} `
+
 
 
 ## Crypto
