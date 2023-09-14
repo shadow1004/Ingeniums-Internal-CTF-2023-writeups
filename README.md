@@ -22,8 +22,8 @@ This folder contains challenges that I created for an internal CTF, which is beg
 
 | Challenge Name | Tags | Difficulty |
 | -------------- | ---- | ---------- |
-| [look-O 1](misc/look-o-1) | #osint, #easy |
-| [look-O 2](misc/look-o-2) | #osint, #easy |
-| [5had0ws](misc/5had0ws) | #easy |
+| [look-O 1](misc/look-o-1) | Osint | Easy |
+| [look-O 2](misc/look-o-2) | Osint | Easy |
+| [5had0ws](misc/5had0ws) | | Easy |
 
 Click on each challenge name to access the respective subfolder containing the challenge and its solution.
