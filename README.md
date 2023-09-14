@@ -6,24 +6,24 @@ This folder contains challenges that I created for an internal CTF, which is beg
 
 | Challenge Name | Difficulty |
 | -------------- | ---------- |
-| [Neo-basein](crypto/neo-basein) | Medium |
+| [Neo-basein](crypto/Neo-basein) | Medium |
 
 ## Forensics
 
 | Challenge Name | Difficulty |
 | -------------- | ---------- |
-| [Noted](forensics/noted) | Easy |
-| [WireWeb 1](forensics/wireweb-1) | Easy |
-| [WireWeb 2](forensics/wireweb-2) | Medium |
-| [Macrosoft](forensics/macrosoft) | Easy |
-| [Corrupted Layers](forensics/corrupted-layers) | Medium |
+| [Noted](forensics/Noted) | Easy |
+| [WireWeb 1](forensics/Wireweb-1) | Easy |
+| [WireWeb 2](forensics/Wireweb-2) | Medium |
+| [Macrosoft](forensics/Macrosoft) | Easy |
+| [Corrupted Layers](forensics/Corrupted-layers) | Medium |
 
 ## Misc
 
 | Challenge Name | Tags | Difficulty |
 | -------------- | ---- | ---------- |
-| [look-O 1](misc/look-o-1) | Osint | Easy |
-| [look-O 2](misc/look-o-2) | Osint | Easy |
+| [look-O 1](misc/Look-o-1) | Osint | Easy |
+| [look-O 2](misc/Look-o-2) | Osint | Easy |
 | [5had0ws](misc/5had0ws) | | Easy |
 
 Click on each challenge name to access the respective subfolder containing the challenge and its solution.
