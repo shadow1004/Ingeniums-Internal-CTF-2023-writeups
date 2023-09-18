@@ -22,7 +22,7 @@ ps : try to find the flag on your own first! ✅
 | -------------- | ---------- |
 | [Noted](forensics/Noted) | Easy |
 | [WireWeb1](forensics/Wireweb1%20) | Easy |
-| [WireWeb2](forensics/Wireweb2%20) | Medium |
+| [WireWeb2](forensics/Wireweb2) | Medium |
 | [Macrosoft](forensics/Macrosoft) | Easy |
 | [Corrupted Layers](forensics/Corrupted-layers%20) | Medium |
 
