@@ -4,7 +4,7 @@
 last OCTober i downloaded this audio file to listen to the song but it looks like the notes r a bit weird ?
 could u discover what's happening here ?
 
-File : [Oct-taal se taal mila.wav](Oct-taal se taal mila.wav)
+File : Oct-taal se taal mila.wav
 
 # Solution 
 
