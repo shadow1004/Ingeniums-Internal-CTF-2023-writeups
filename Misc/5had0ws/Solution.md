@@ -21,23 +21,23 @@ You'll have about ~ 1200 png frames from the video.
 
  Frame 1 : 
  
-![output_frame_0133](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/d7022e34-3187-47c7-8c57-fd8f2bf54958)
+ ![output_frame_0133](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/b55532f8-85ac-4d99-8c1c-62cfa9d1e3ae)
 
 Frame 2 :
 
-![output_frame_0308](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/636db5da-84fe-4c8c-b284-59376ea0f954)
+![output_frame_0308](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/9607752c-9524-4a2f-9e8a-abfe60524d4a)
 
 Frame3:
 
-![output_frame_1150](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/10f3aa14-bd51-4a9a-9447-3b67d26a870b)
+![output_frame_1150](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/d7d09378-3700-47ec-b552-b4bba60404b1)
 
 Frame4:
 
-![output_frame_1208](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/70b48874-7c43-4ce3-9bd2-b54e12995e79)
+![output_frame_1208](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/86d399f0-badb-4ebc-943e-bca74db3cddd)
 
 Assemble it with any simple pics editor to have the full qr code : 
 
-![frame](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/c7a2b2a8-5de2-4f65-b05f-af334bbe4b98)
+![frame](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/69aa0433-5065-431b-ad8c-2fcc9ee910d6)
 
 Scan it then you'll get the flag ! 
 
