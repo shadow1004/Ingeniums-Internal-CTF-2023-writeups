@@ -31,7 +31,6 @@ As we see, there is a Short video Called "About me" and by watching, we can see 
 
 'link of video' : [https://www.youtube.com/shorts/oe34R_759gs](https://www.youtube.com/shorts/oe34R_759gs)
 
-![photo_2023-09-14_15-59-37](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/9cf4b854-c508-4cee-bfd4-9931b73ce72c)
 
 > Flag : ingeniums{3sT0y_0sint0o-r} 
 
