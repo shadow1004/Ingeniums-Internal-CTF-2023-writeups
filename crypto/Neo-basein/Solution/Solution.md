@@ -11,13 +11,13 @@ Looking at the [list](Nbases.txt) file that contains strings like "GUU UUA UUG" 
 In science nucleo-bases are translated to dna/rna or amino acides that fabriques protein, and these called "genetique code" or codons!<br>
 
 Googling a bit we'll help you find [This website](https://www.dcode.fr/codons-code-genetique) that can help us decrypting these chains. <br>
+![The-codon-table-The-genetic-code-is-composed-of-four-different-letters-U-C-A-and-G](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/23f59f4a-3c1c-4e4a-b9b1-a51013042561)
 
-![The-codon-table-The-genetic-code-is-composed-of-four-different-letters-U-C-A-and-G](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/dfcd10da-e906-4261-bd82-82f9af485329)
 
 Decrypting the list will give us 'VLLGRPTRVPLGRPAPVALGGAGVVGGAPSGSVALVVAVRLPSGTAGLLRGTGTGVLPSTPAAPLVTARASRLPGARASTPTSGPARA' 
 A string of just 8 letters which represent 8 amino acides in the [picture file](NeoBasine.jpg): 
 
-![tubes](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/d8916bea-4e9c-49a7-9cab-4261c3c0ce34)
+![tubes](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/3603f006-0207-4f22-9dd3-7414d269b05c)
 
 We notice that every amino acide is associated to a number from 0-7. <br>
 Also, in description we have `C0mputer 1anguage` so we understand that we have to map each amino acide to his number but in binary.<br
