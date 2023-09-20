@@ -14,7 +14,7 @@ There are a lot of packets and some of them contains base64 and decrypting that 
 So we have to filter the packets basing on some creterias that we'll exclude from the description. <br>
 PING-PONG may be a hint to ping ( and these are based on ICMP packets ):
 
-![Screenshot from 2023-09-18 14-25-15](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/375cd2b5-5b2e-4aca-882d-e4ae7765ecee)
+![Screenshot from 2023-09-18 14-25-15](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/b1c68438-6b36-44e1-abde-cc7d201348cf)
 
 
 We still have a lot of icmp packets with b64.. we need another filtering criteria... <br>
