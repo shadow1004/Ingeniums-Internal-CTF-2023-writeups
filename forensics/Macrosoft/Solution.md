@@ -60,11 +60,11 @@ and now let's see how to find the flag with another tool and another way ~
 
 **1- u can use the LibreOffice interface as well to check macros code by editing it:**
 
-![Screenshot from 2023-09-20 07-58-13](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/7aaf3133-a5d9-463e-8aff-a32588481be5)
+![Screenshot from 2023-09-20 07-58-13](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/40731a33-b233-4ded-8239-bd16bfe2ec7a)
 
-![Screenshot 2023-09-20 07:59:24](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/eefa1241-ab66-417f-8c80-33bc254c7807)
+![Screenshot 2023-09-20 07:59:24](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/a372caa4-fd17-49ff-b009-717fe24de8b2)
 
-![Screenshot from 2023-09-20 08-00-41](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/25d5b61f-9fbd-4356-beab-04baca2b3ad3)
+![Screenshot from 2023-09-20 08-00-41](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/3f3270a4-9898-40ad-92cc-7f0119106645)
 
 
 **2- Or, Run this command `olevba MacroSoft.pptm ` <br>**
