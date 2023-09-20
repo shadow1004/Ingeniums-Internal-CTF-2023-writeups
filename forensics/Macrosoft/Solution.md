@@ -58,6 +58,20 @@ and now let's see how to find the flag with another tool and another way ~
 
 # Using LINUX
 
+**1- u can use the LibreOffice interface as well to check macros code by editing it:**
 
+![Screenshot from 2023-09-20 07-58-13](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/7aaf3133-a5d9-463e-8aff-a32588481be5)
+
+![Screenshot 2023-09-20 07:59:24](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/eefa1241-ab66-417f-8c80-33bc254c7807)
+
+![Screenshot from 2023-09-20 08-00-41](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/25d5b61f-9fbd-4356-beab-04baca2b3ad3)
+
+
+**2- Or, Run this command `olevba MacroSoft.pptm ` <br>**
+-ofc after installing required oletools package- and you'll be to able see if there are any macros + their code.
+
+  **Note : PowerPoint files are actually zip files, so if i didnt made the flag format obsfucated, zipping the file and searching with grep may get you the flag as well.**
+
+>Flag: ingeniums{B3_4w4r3_0f_M4lw4r3s}
 
 
