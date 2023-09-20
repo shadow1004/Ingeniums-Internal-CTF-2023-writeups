@@ -16,30 +16,33 @@ for this it's recomended to use files names betwen "" or '' .
 
 After downloading the file, we'll run bunch of commands to know the type of file, extract it etc, commands are:
 
-![Screenshot from 2023-09-20 06-46-29](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/164f9e7c-8233-47aa-aafd-ca731ec73ac8)
+![Screenshot from 2023-09-20 06-46-29](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/032f5f28-d67e-4b74-b6c1-efb5fa13883f)
 
 As we see we got this pic where colors seem 
 let's use the tool [stegsolve](https://wiki.bi0s.in/steganography/stegsolve/) to examine it ! :
-![Screenshot from 2023-09-20 06-50-30](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/a3a33ee6-d8fa-4014-8e27-3b1276a5b29d)
 
-![Screenshot from 2023-09-20 06-50-35](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/056c44da-59e9-4d81-be40-92820fdbfafc)
+![Screenshot from 2023-09-20 06-50-30](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/ecbff190-56f4-49f7-81b0-c25a29042e32)
 
-![Screenshot from 2023-09-20 07-13-13](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/db54b88f-1fca-4029-8acf-58e86546c0e0)
+
+![Screenshot from 2023-09-20 06-50-35](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/0338078e-a75e-4d3a-9c7e-0b82de0431bb)
+
+![Screenshot from 2023-09-20 07-13-13](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/a110f4ac-7825-460a-909e-7871149efb47)
 
 As we see here's a flag : **ingeniums{Gr34t_W0** but it seems uncompleted ?? <br>
 Back to description's last sentence : `separated parts may reconnect!` we understand that the flag actually is splitted on 2 parts.
 And in the first screenshot ( while extracting the fixMe file ) we notice the line fixMe/.png so **There is another file!** <br>
 This file is hidden so we have to run `ls -a` to see it.
 
-![Screenshot from 2023-09-20 06-56-11](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/df63d129-92aa-4cef-bac7-c48d45f47fd0)
+![Screenshot from 2023-09-20 06-56-11](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/2bca5def-376e-4bb2-b6e2-eee630617265)
+
 
 As you can see trying to open it says it's not a png actually, running the command `file`
 
-![Screenshot from 2023-09-20 06-56-43](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/30ee3b9f-374f-4fe5-9735-651aafdc3072)
+![Screenshot from 2023-09-20 06-56-43](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/75dbc74d-90c3-4596-9f05-4c28ea7df855)
 
 It's a zip file then! and unzipping it doesnt work too, it's Corrupted!
 trying to check the file's header by running `hexedit`: 
-![Screenshot from 2023-09-20 06-56-59](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/e369676e-d40d-4665-a759-182f2baeed63)
+![Screenshot from 2023-09-20 06-56-59](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/9583b9ea-74b9-4e91-9320-721974403301)
 
 As we notice the "FixMe", we need to fix the header with the correct magic bytes of a zip file ! `50 4B 03 04`
 [Here](https://en.wikipedia.org/wiki/List_of_file_signatures) You can find magic bytes/signatures of many type of files ! <br>
