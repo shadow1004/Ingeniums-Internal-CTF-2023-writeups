@@ -7,3 +7,6 @@
 > all I noticed is that everything is on `3 characters` but..
 >
 > i'm just a hacker after all!, i understand just `C0mputer 1anguage` ma friend! help me to decrypt this and find the secret!
+
+
+[Solution Here](Solution/Solution.md)
