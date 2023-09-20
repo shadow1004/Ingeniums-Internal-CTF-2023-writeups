@@ -11,11 +11,15 @@ Looking at the [list](Nbases.txt) file that contains strings like "GUU UUA UUG" 
 In science nucleo-bases are translated to dna/rna or amino acides that fabriques protein, and these called "genetique code" or codons!<br>
 
 Googling a bit we'll help you find [This website](https://www.dcode.fr/codons-code-genetique) that can help us decrypting these chains. <br>
-Decrypting the list will give us 'VLLGRPTRVPLGRPAPVALGGAGVVGGAPSGSVALVVAVRLPSGTAGLLRGTGTGVLPSTPAAPLVTARASRLPGARASTPTSGPARA' 
-And with googling codons and with the other [pic](NeoBasine.jpg) file, we understand that we have just 8 letters which represent 8
-amino acides in the picture. [See More here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.khanacademy.org%2Fscience%2Fap-biology%2Fgene-expression-and-regulation%2Ftranslation%2Fa%2Fthe-genetic-code-discovery-and-properties&psig=AOvVaw1V51jE4dLwo-rXYjVHmS-j&ust=1695277842172000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDAnajIuIEDFQAAAAAdAAAAABAF)
 
-So, there are plenty of hints, in our [pic](NeoBasine.jpg) file we have every amino acide is associated to a number from 0-7. <br>
+![The-codon-table-The-genetic-code-is-composed-of-four-different-letters-U-C-A-and-G](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/dfcd10da-e906-4261-bd82-82f9af485329)
+
+Decrypting the list will give us 'VLLGRPTRVPLGRPAPVALGGAGVVGGAPSGSVALVVAVRLPSGTAGLLRGTGTGVLPSTPAAPLVTARASRLPGARASTPTSGPARA' 
+A string of just 8 letters which represent 8 amino acides in the [picture file](NeoBasine.jpg): 
+
+![tubes](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/d8916bea-4e9c-49a7-9cab-4261c3c0ce34)
+
+We notice that every amino acide is associated to a number from 0-7. <br>
 Also, in description we have `C0mputer 1anguage` so we understand that we have to map each amino acide to his number but in binary.<br
 But here's the trick: for exemple Val = 3 in the picture, how would it become in binary ? 11 ? 011? 0011 ? 0000 0011 ? <br>
 Here comes the other hint in description : **all I noticed is that everything is on `3 characters`** so we'll use 3 bits!
