@@ -11,20 +11,21 @@ File : Oct-taal se taal mila.wav
 So we have plenty of hint in description..
 "Meta-message" make us checking the metadata of the file ( for exemple `exiftool` ) :
 
-![Screenshot from 2023-09-18 17-40-33](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/7dec736b-2f56-4c8f-931d-51cd771a9a11)
+![Screenshot from 2023-09-18 17-40-33](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/d35e8331-34b8-40b3-9b9a-bf09851ab896)
+
 
 We have a hint in the comment section : "there is something about the notes .. try to use a better audio tool to discover more !
 ". <br>
 We have the known software for audio analyse : **Audacity.**
 
-![Screenshot from 2023-09-18 17-44-49](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/8af531e6-816e-47dd-9cf7-3dd936d874cf)
-
+![Screenshot from 2023-09-18 17-44-49](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/6d0629b3-6c8d-452f-bd34-b0671c0d207d)
 
 As we see there is nothing special in the waves so let's recheck the specific meta data here : 
+![Screenshot 2023-09-18 17:54:33](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/d3fab4b7-f68d-49ee-8350-95f1e3a51ff1)
 
-![Screenshot 2023-09-18 17:54:33](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/dad553a4-c35c-4013-94b0-e043e0df3fe0)
+![Screenshot from 2023-09-18 17-54-49](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/410d5524-1455-44c6-ada4-bdd7d69c70b8)
 
-![Screenshot from 2023-09-18 17-54-49](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/35568904-30b4-4782-a859-9b0f3ec37e43)
+
 
 There are some "notes" or numbers in **Track number** section,
 and the file name called "Oct-tal" and the numbers are on 3 digits each so,
