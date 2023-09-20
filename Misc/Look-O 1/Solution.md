@@ -15,7 +15,7 @@ Videos usually be uploaded on the youtube platform so we go and check the youtub
 As we look around, there is no extraordinary video or something, but the description said " crazy avocado saying nonsense "
 so probably we would find something in the comments .. Let's check the comment of the last video/short..
 
-![bandicam 2023-09-14 15-38-40-800](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/5dfa0678-3c17-4917-8e02-d6f50d11a788)
+![bandicam 2023-09-14 15-38-40-800](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/1028ff5f-67f6-468e-80cb-fb97c538e965)
 
 As we notice there is a comment from someone called loco avocado - loco means crazy in Spanish so it matches with the description-
 and have a photo profile of the internal CTF logo so we're on the right path.
@@ -25,7 +25,7 @@ and translating this in rot13 gives us : `try to know more about me!`.
 
 Let's see his profile then .. 
 
-![bandicam 2023-09-14 15-40-08-949](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/4409d209-61b7-41af-944a-b7b95453aa56)
+![bandicam 2023-09-14 15-40-08-949](https://github.com/shadow1004/Ingeniums-Internal-CTF-2023-writeups/assets/68519098/86905bae-61ed-4783-a3a3-b03116562de3)
 
 As we see, there is a Short video Called "About me" and by watching, we can see the flag !
 
