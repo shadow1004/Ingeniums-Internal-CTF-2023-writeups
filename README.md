@@ -24,7 +24,7 @@ ps : try to find the flag on your own first! ✅
 | [WireWeb1](forensics/WireWeb1) | Easy |
 | [WireWeb2](forensics/WireWeb2) | Medium |
 | [Macrosoft](forensics/Macrosoft) | Easy |
-| [Corrupted Layers](forensics/Corrupted Layers) | Medium |
+| [Corrupted Layers](forensics/Corrupted%20Layers) | Medium |
 
 ## Misc
 
